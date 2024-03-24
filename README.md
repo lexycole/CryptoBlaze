@@ -20,11 +20,11 @@ CryptoBlaze is a comprehensive web application designed to streamline Solana wal
 
 # Demo📺
 👉 Home Page
-<img src="https://github.com/lexycole/CryptoBlaze/assets/40228505/97bd4ac6-3666-4f46-89ed-a3f7de2c38d1.png">
+<img src="https://github.com/lexycole/CryptoBlaze/assets/40228505/d876d0f9-bf03-4c40-ab21-bfa3601ae710.png">
 👉 Second Page
 <img src="https://github.com/lexycole/CryptoBlaze/assets/40228505/4dbab65c-5674-4529-a703-6021202e04c7.png">
 👉 Third Page
-<img src="https://github.com/lexycole/CryptoBlaze/assets/40228505/d876d0f9-bf03-4c40-ab21-bfa3601ae710.png">
+<img src="https://github.com/lexycole/CryptoBlaze/assets/40228505/97bd4ac6-3666-4f46-89ed-a3f7de2c38d1.png">
 
 
 # 👨‍💻 Author 
