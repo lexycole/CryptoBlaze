@@ -1,0 +1,20 @@
+[features]
+seeds = false
+[programs.localnet]
+spin = "GgRis87KSDgfzYWup1Y7ByZiAECXR7siKbES4Ff4UCCp"
+
+[programs.devnet]
+spin = "5X5AjdjmgWuWw511oCZVYXLJbqAskRAXB5si5ipcjhKw"
+
+[programs.mainnet]
+spin = "GgRis87KSDgfzYWup1Y7ByZiAECXR7siKbES4Ff4UCCp"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/guardian/work/solana/devnet.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
